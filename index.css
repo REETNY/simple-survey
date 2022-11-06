@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 50px 0 50px 0;
+}
+
+hr{
+    height: 4px;
+}
+
+.form-cont{
+    box-shadow: 1px 2px 3px 2px rgb(156, 154, 154);
+}
